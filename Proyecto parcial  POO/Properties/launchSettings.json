@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Proyecto parcial  POO": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
